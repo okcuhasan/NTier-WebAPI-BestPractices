@@ -1,0 +1,12 @@
+C:\Users\hasan.okcu\source\repos\ManagementSystem\ManagementSystem.ENTITIES\bin\Debug\net8.0\ManagementSystem.ENTITIES.deps.json
+C:\Users\hasan.okcu\source\repos\ManagementSystem\ManagementSystem.ENTITIES\bin\Debug\net8.0\ManagementSystem.ENTITIES.dll
+C:\Users\hasan.okcu\source\repos\ManagementSystem\ManagementSystem.ENTITIES\bin\Debug\net8.0\ManagementSystem.ENTITIES.pdb
+C:\Users\hasan.okcu\source\repos\ManagementSystem\ManagementSystem.ENTITIES\obj\Debug\net8.0\ManagementSystem.ENTITIES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasan.okcu\source\repos\ManagementSystem\ManagementSystem.ENTITIES\obj\Debug\net8.0\ManagementSystem.ENTITIES.AssemblyInfoInputs.cache
+C:\Users\hasan.okcu\source\repos\ManagementSystem\ManagementSystem.ENTITIES\obj\Debug\net8.0\ManagementSystem.ENTITIES.AssemblyInfo.cs
+C:\Users\hasan.okcu\source\repos\ManagementSystem\ManagementSystem.ENTITIES\obj\Debug\net8.0\ManagementSystem.ENTITIES.csproj.CoreCompileInputs.cache
+C:\Users\hasan.okcu\source\repos\ManagementSystem\ManagementSystem.ENTITIES\obj\Debug\net8.0\ManagementSystem.ENTITIES.dll
+C:\Users\hasan.okcu\source\repos\ManagementSystem\ManagementSystem.ENTITIES\obj\Debug\net8.0\refint\ManagementSystem.ENTITIES.dll
+C:\Users\hasan.okcu\source\repos\ManagementSystem\ManagementSystem.ENTITIES\obj\Debug\net8.0\ManagementSystem.ENTITIES.pdb
+C:\Users\hasan.okcu\source\repos\ManagementSystem\ManagementSystem.ENTITIES\obj\Debug\net8.0\ref\ManagementSystem.ENTITIES.dll
+C:\Users\hasan.okcu\source\repos\ManagementSystem\ManagementSystem.ENTITIES\obj\Debug\net8.0\ManagementSystem.ENTITIES.csproj.AssemblyReference.cache

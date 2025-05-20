@@ -1,0 +1,17 @@
+C:\Users\hasan.okcu\source\repos\ManagementSystem\ManagementSystem.DAL\bin\Debug\net8.0\ManagementSystem.DAL.deps.json
+C:\Users\hasan.okcu\source\repos\ManagementSystem\ManagementSystem.DAL\bin\Debug\net8.0\ManagementSystem.DAL.runtimeconfig.json
+C:\Users\hasan.okcu\source\repos\ManagementSystem\ManagementSystem.DAL\bin\Debug\net8.0\ManagementSystem.DAL.dll
+C:\Users\hasan.okcu\source\repos\ManagementSystem\ManagementSystem.DAL\bin\Debug\net8.0\ManagementSystem.DAL.pdb
+C:\Users\hasan.okcu\source\repos\ManagementSystem\ManagementSystem.DAL\bin\Debug\net8.0\ManagementSystem.ENTITIES.dll
+C:\Users\hasan.okcu\source\repos\ManagementSystem\ManagementSystem.DAL\bin\Debug\net8.0\ManagementSystem.ENTITIES.pdb
+C:\Users\hasan.okcu\source\repos\ManagementSystem\ManagementSystem.DAL\obj\Debug\net8.0\ManagementSystem.DAL.csproj.AssemblyReference.cache
+C:\Users\hasan.okcu\source\repos\ManagementSystem\ManagementSystem.DAL\obj\Debug\net8.0\ManagementSystem.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasan.okcu\source\repos\ManagementSystem\ManagementSystem.DAL\obj\Debug\net8.0\ManagementSystem.DAL.AssemblyInfoInputs.cache
+C:\Users\hasan.okcu\source\repos\ManagementSystem\ManagementSystem.DAL\obj\Debug\net8.0\ManagementSystem.DAL.AssemblyInfo.cs
+C:\Users\hasan.okcu\source\repos\ManagementSystem\ManagementSystem.DAL\obj\Debug\net8.0\ManagementSystem.DAL.csproj.CoreCompileInputs.cache
+C:\Users\hasan.okcu\source\repos\ManagementSystem\ManagementSystem.DAL\obj\Debug\net8.0\Manageme.BF3DCBA2.Up2Date
+C:\Users\hasan.okcu\source\repos\ManagementSystem\ManagementSystem.DAL\obj\Debug\net8.0\ManagementSystem.DAL.dll
+C:\Users\hasan.okcu\source\repos\ManagementSystem\ManagementSystem.DAL\obj\Debug\net8.0\refint\ManagementSystem.DAL.dll
+C:\Users\hasan.okcu\source\repos\ManagementSystem\ManagementSystem.DAL\obj\Debug\net8.0\ManagementSystem.DAL.pdb
+C:\Users\hasan.okcu\source\repos\ManagementSystem\ManagementSystem.DAL\obj\Debug\net8.0\ManagementSystem.DAL.genruntimeconfig.cache
+C:\Users\hasan.okcu\source\repos\ManagementSystem\ManagementSystem.DAL\obj\Debug\net8.0\ref\ManagementSystem.DAL.dll

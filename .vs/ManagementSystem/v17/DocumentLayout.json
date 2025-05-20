@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hasan.okcu\\source\\repos\\ManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7A6DF4C-722B-41AB-B8A7-B8BF270D5FCD}|ManagementSystem.WebAPI\\ManagementSystem.WebAPI.csproj|c:\\users\\hasan.okcu\\source\\repos\\managementsystem\\managementsystem.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7A6DF4C-722B-41AB-B8A7-B8BF270D5FCD}|ManagementSystem.WebAPI\\ManagementSystem.WebAPI.csproj|solutionrelative:managementsystem.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7A6DF4C-722B-41AB-B8A7-B8BF270D5FCD}|ManagementSystem.WebAPI\\ManagementSystem.WebAPI.csproj|c:\\users\\hasan.okcu\\source\\repos\\managementsystem\\managementsystem.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D7A6DF4C-722B-41AB-B8A7-B8BF270D5FCD}|ManagementSystem.WebAPI\\ManagementSystem.WebAPI.csproj|solutionrelative:managementsystem.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hasan.okcu\\source\\repos\\ManagementSystem\\ManagementSystem.WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ManagementSystem.WebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\hasan.okcu\\source\\repos\\ManagementSystem\\ManagementSystem.WebAPI\\Program.cs",
+              "RelativeToolTip": "ManagementSystem.WebAPI\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwBwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T19:31:48.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hasan.okcu\\source\\repos\\ManagementSystem\\ManagementSystem.WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "ManagementSystem.WebAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\hasan.okcu\\source\\repos\\ManagementSystem\\ManagementSystem.WebAPI\\appsettings.json",
+              "RelativeToolTip": "ManagementSystem.WebAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-16T19:31:47.555Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
