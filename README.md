@@ -12,6 +12,8 @@ This is an advanced management system built with .NET Core WebAPI using layered 
 - **Identity Framework** (User, Role, Authorization)
 - **Unit of Work & Repository Pattern**
 - **Swagger for API Testing**
+- **Soft Delete** using `DataStatus` enum
+- **Dependency Resolvers**
 
 ## 📁 Project Structure
 - `ENTITIES`: Entity models, enums, interfaces
