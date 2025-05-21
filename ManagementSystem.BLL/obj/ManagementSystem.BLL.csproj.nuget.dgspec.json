@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hasan.okcu\\source\\repos\\ManagementSystem\\ManagementSystem.BLL\\ManagementSystem.BLL.csproj": {}
+    "C:\\Users\\90554\\source\\repos\\ManagementSystem\\ManagementSystem.BLL\\ManagementSystem.BLL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hasan.okcu\\source\\repos\\ManagementSystem\\ManagementSystem.BLL\\ManagementSystem.BLL.csproj": {
+    "C:\\Users\\90554\\source\\repos\\ManagementSystem\\ManagementSystem.BLL\\ManagementSystem.BLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hasan.okcu\\source\\repos\\ManagementSystem\\ManagementSystem.BLL\\ManagementSystem.BLL.csproj",
+        "projectUniqueName": "C:\\Users\\90554\\source\\repos\\ManagementSystem\\ManagementSystem.BLL\\ManagementSystem.BLL.csproj",
         "projectName": "ManagementSystem.BLL",
-        "projectPath": "C:\\Users\\hasan.okcu\\source\\repos\\ManagementSystem\\ManagementSystem.BLL\\ManagementSystem.BLL.csproj",
-        "packagesPath": "C:\\Users\\hasan.okcu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hasan.okcu\\source\\repos\\ManagementSystem\\ManagementSystem.BLL\\obj\\",
+        "projectPath": "C:\\Users\\90554\\source\\repos\\ManagementSystem\\ManagementSystem.BLL\\ManagementSystem.BLL.csproj",
+        "packagesPath": "C:\\Users\\90554\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\90554\\source\\repos\\ManagementSystem\\ManagementSystem.BLL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\hasan.okcu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\90554\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,15 +26,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\hasan.okcu\\source\\repos\\ManagementSystem\\ManagementSystem.DAL\\ManagementSystem.DAL.csproj": {
-                "projectPath": "C:\\Users\\hasan.okcu\\source\\repos\\ManagementSystem\\ManagementSystem.DAL\\ManagementSystem.DAL.csproj",
+              "C:\\Users\\90554\\source\\repos\\ManagementSystem\\ManagementSystem.DAL\\ManagementSystem.DAL.csproj": {
+                "projectPath": "C:\\Users\\90554\\source\\repos\\ManagementSystem\\ManagementSystem.DAL\\ManagementSystem.DAL.csproj",
                 "privateAssets": "all"
               }
             }
@@ -50,7 +49,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -87,24 +86,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\hasan.okcu\\source\\repos\\ManagementSystem\\ManagementSystem.DAL\\ManagementSystem.DAL.csproj": {
+    "C:\\Users\\90554\\source\\repos\\ManagementSystem\\ManagementSystem.DAL\\ManagementSystem.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hasan.okcu\\source\\repos\\ManagementSystem\\ManagementSystem.DAL\\ManagementSystem.DAL.csproj",
+        "projectUniqueName": "C:\\Users\\90554\\source\\repos\\ManagementSystem\\ManagementSystem.DAL\\ManagementSystem.DAL.csproj",
         "projectName": "ManagementSystem.DAL",
-        "projectPath": "C:\\Users\\hasan.okcu\\source\\repos\\ManagementSystem\\ManagementSystem.DAL\\ManagementSystem.DAL.csproj",
-        "packagesPath": "C:\\Users\\hasan.okcu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hasan.okcu\\source\\repos\\ManagementSystem\\ManagementSystem.DAL\\obj\\",
+        "projectPath": "C:\\Users\\90554\\source\\repos\\ManagementSystem\\ManagementSystem.DAL\\ManagementSystem.DAL.csproj",
+        "packagesPath": "C:\\Users\\90554\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\90554\\source\\repos\\ManagementSystem\\ManagementSystem.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\hasan.okcu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\90554\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -113,15 +112,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\hasan.okcu\\source\\repos\\ManagementSystem\\ManagementSystem.ENTITIES\\ManagementSystem.ENTITIES.csproj": {
-                "projectPath": "C:\\Users\\hasan.okcu\\source\\repos\\ManagementSystem\\ManagementSystem.ENTITIES\\ManagementSystem.ENTITIES.csproj"
+              "C:\\Users\\90554\\source\\repos\\ManagementSystem\\ManagementSystem.ENTITIES\\ManagementSystem.ENTITIES.csproj": {
+                "projectPath": "C:\\Users\\90554\\source\\repos\\ManagementSystem\\ManagementSystem.ENTITIES\\ManagementSystem.ENTITIES.csproj"
               }
             }
           }
@@ -136,7 +134,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -183,24 +181,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\hasan.okcu\\source\\repos\\ManagementSystem\\ManagementSystem.ENTITIES\\ManagementSystem.ENTITIES.csproj": {
+    "C:\\Users\\90554\\source\\repos\\ManagementSystem\\ManagementSystem.ENTITIES\\ManagementSystem.ENTITIES.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hasan.okcu\\source\\repos\\ManagementSystem\\ManagementSystem.ENTITIES\\ManagementSystem.ENTITIES.csproj",
+        "projectUniqueName": "C:\\Users\\90554\\source\\repos\\ManagementSystem\\ManagementSystem.ENTITIES\\ManagementSystem.ENTITIES.csproj",
         "projectName": "ManagementSystem.ENTITIES",
-        "projectPath": "C:\\Users\\hasan.okcu\\source\\repos\\ManagementSystem\\ManagementSystem.ENTITIES\\ManagementSystem.ENTITIES.csproj",
-        "packagesPath": "C:\\Users\\hasan.okcu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hasan.okcu\\source\\repos\\ManagementSystem\\ManagementSystem.ENTITIES\\obj\\",
+        "projectPath": "C:\\Users\\90554\\source\\repos\\ManagementSystem\\ManagementSystem.ENTITIES\\ManagementSystem.ENTITIES.csproj",
+        "packagesPath": "C:\\Users\\90554\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\90554\\source\\repos\\ManagementSystem\\ManagementSystem.ENTITIES\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\hasan.okcu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\90554\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -209,7 +207,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -228,7 +225,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -255,7 +252,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
